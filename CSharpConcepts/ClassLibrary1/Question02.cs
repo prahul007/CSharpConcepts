@@ -22,7 +22,7 @@ namespace Exam70483
         public string LastName { get; set; }
     }
 
-    public class Question2
+    public class Question02
     {
         public static Name ConvertToName(string json)
         {

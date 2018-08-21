@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exam70483
 {
-    class Question3
+    class Question08
     {
     }
 }

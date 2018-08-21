@@ -15,7 +15,7 @@ namespace Execute
 
             //Question 2
             var json = @"{""FirstName"":""David"",""LastName"":""Jones"",""Values"":[0, 1, 2]}";
-            Name name = Question2.ConvertToName(json);
+            Name name = Question02.ConvertToName(json);
             Console.WriteLine(name.FirstName + " " + name.LastName);
             Console.Read();
         }

@@ -22,7 +22,7 @@ namespace Exam70483
         string Data { get; set; }
     }
 
-    public class Question1
+    public class Question01
     {
         public void DoWork(object obj)
         {
