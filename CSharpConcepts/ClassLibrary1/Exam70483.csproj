@@ -42,6 +42,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Question45.cs" />
+    <Compile Include="Question46.cs" />
+    <Compile Include="Question47.cs" />
+    <Compile Include="Question48.cs" />
+    <Compile Include="Question49.cs" />
+    <Compile Include="Question50.cs" />
+    <Compile Include="Question51.cs" />
+    <Compile Include="Question52.cs" />
+    <Compile Include="Question56.cs" />
+    <Compile Include="Question57.cs" />
+    <Compile Include="Question58.cs" />
+    <Compile Include="Question59.cs" />
     <Compile Include="Question19.cs" />
     <Compile Include="Question20.cs" />
     <Compile Include="Question21.cs" />
