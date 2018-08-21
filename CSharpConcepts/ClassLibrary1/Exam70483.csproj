@@ -7,8 +7,8 @@
     <ProjectGuid>{1FC193E4-3E9F-4E53-B76F-F0EE221E44BA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary1</RootNamespace>
-    <AssemblyName>ClassLibrary1</AssemblyName>
+    <RootNamespace>Exam70483</RootNamespace>
+    <AssemblyName>Exam70483</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -42,6 +42,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Question19.cs" />
+    <Compile Include="Question20.cs" />
+    <Compile Include="Question21.cs" />
+    <Compile Include="Question22.cs" />
+    <Compile Include="Question23.cs" />
+    <Compile Include="Question24.cs" />
+    <Compile Include="Question25.cs" />
+    <Compile Include="Question26.cs" />
+    <Compile Include="Question27.cs" />
+    <Compile Include="Question28.cs" />
+    <Compile Include="Question29.cs" />
+    <Compile Include="Question30.cs" />
+    <Compile Include="Question31.cs" />
+    <Compile Include="Question32.cs" />
+    <Compile Include="Question33.cs" />
+    <Compile Include="Question34.cs" />
+    <Compile Include="Question35.cs" />
+    <Compile Include="Question36.cs" />
+    <Compile Include="Question37.cs" />
+    <Compile Include="Question38.cs" />
+    <Compile Include="Question39.cs" />
+    <Compile Include="Question40.cs" />
+    <Compile Include="Question41.cs" />
+    <Compile Include="Question42.cs" />
+    <Compile Include="Question43.cs" />
+    <Compile Include="Question44.cs" />
     <Compile Include="Question5.cs" />
     <Compile Include="Question6.cs" />
     <Compile Include="Question7.cs" />

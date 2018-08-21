@@ -26,7 +26,7 @@ namespace Exam70483
     {
         public static Name ConvertToName(string json)
         {
-           var ser = new JavaScriptSerializer();
+            var ser = new JavaScriptSerializer();
             return ser.Deserialize<Name>(json);
         }
     }
